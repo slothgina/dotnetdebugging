@@ -1,0 +1,15 @@
+C:\Users\ginag\dotnetdebugging\bin\Release\net10.0\dotnetdebugging.exe
+C:\Users\ginag\dotnetdebugging\bin\Release\net10.0\dotnetdebugging.deps.json
+C:\Users\ginag\dotnetdebugging\bin\Release\net10.0\dotnetdebugging.runtimeconfig.json
+C:\Users\ginag\dotnetdebugging\bin\Release\net10.0\dotnetdebugging.dll
+C:\Users\ginag\dotnetdebugging\bin\Release\net10.0\dotnetdebugging.pdb
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.AssemblyInfoInputs.cache
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.AssemblyInfo.cs
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.csproj.CoreCompileInputs.cache
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.sourcelink.json
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.dll
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\refint\dotnetdebugging.dll
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.pdb
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\dotnetdebugging.genruntimeconfig.cache
+C:\Users\ginag\dotnetdebugging\obj\Release\net10.0\ref\dotnetdebugging.dll
